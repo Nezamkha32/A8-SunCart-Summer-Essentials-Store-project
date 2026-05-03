@@ -1,5 +1,7 @@
 # 🌞 SunCart - Summer Essentials Store
 
+## Assignment Category : category-A8-Jackfruit
+
 ## 📌 Project Purpose
 SunCart is a modern summer essentials web application where users can explore different summer products like sunglasses, skincare, outfits, and accessories.  
 Users can view product details and manage their profile with authentication.
