@@ -3,4 +3,3 @@ export const authClient = createAuthClient({
     /** The base URL of the server (optional if you're using the same domain) */
     baseURL: "https://a8-sun-cart-summer-essentials-store-lyart.vercel.app"
 })
-export const { signIn, signUp, useSession } = createAuthClient()

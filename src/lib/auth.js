@@ -3,10 +3,9 @@ import { MongoClient } from "mongodb";
 import { mongodbAdapter } from "better-auth/adapters/mongodb";
 
 const client = new MongoClient(process.env.MONGODB_URI);
-const db = client.db("suncart");
+const db = client.db("suncard");
 
 export const auth = betterAuth({
-//  experimental: { joins: true }
   database: mongodbAdapter(db, {
     client
   }),
@@ -17,6 +16,7 @@ export const auth = betterAuth({
     google: {
       clientId: process.env.GOOGLE_CLIENT_ID,
       clientSecret: process.env.GOOGLE_CLIENT_SECRET
-    },
+      
+    }
   }
 });
