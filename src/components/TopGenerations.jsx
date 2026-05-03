@@ -1,0 +1,22 @@
+import PhotoCard from "./PhotoCard";
+
+const TopGenerations = async () => {
+    const res = await fetch('https://a8-sun-cart-summer-essentials-store-lyart.vercel.app/data.json')
+    const photos = await res.json()
+    const topPhotos = photos.slice(0, 3)
+
+
+
+
+    return (
+        <div>
+            <h1 className="text-2xl font-bold my-5">Popular Products</h1>
+
+            <div className="grid grid-cols-4 gap-5">
+                {topPhotos.map(photo => <PhotoCard key={photo.id} photo={photo} />)}
+            </div>
+        </div>
+    );
+};
+
+export default TopGenerations;
