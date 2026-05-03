@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade Pro",
+    "price": 29.99,
+    "rating": 4.7,
+    "stock": 15,
+    "description": "Shield your eyes in style with our premium UV400 protection sunglasses. Featuring polarized lenses that eliminate glare from water and sand, a lightweight TR90 frame, and 100% UVA/UVB protection. Perfect for beach days, outdoor sports, and everyday summer adventures.",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=600&q=80",
+    "category": "Accessories",
+    "features": ["UV400 Protection", "Polarized Lenses", "Lightweight TR90 Frame", "Anti-scratch Coating"]
+  },
+  {
+    "id": 2,
+    "name": "Tropical Print Swim Shorts",
+    "brand": "WaveRider",
+    "price": 34.99,
+    "rating": 4.5,
+    "stock": 25,
+    "description": "Dive into summer with these vibrant tropical print swim shorts. Made from quick-dry recycled polyester fabric, they feature a comfortable elastic waistband with drawstring, mesh lining for support, and a secure side pocket. Available in bold patterns that turn heads on the beach.",
+    "image": "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=600&q=80",
+    "category": "Clothing",
+    "features": ["Quick-Dry Fabric", "Recycled Polyester", "Mesh Lining", "Secure Side Pocket"]
+  },
+  {
+    "id": 3,
+    "name": "SPF 50 Sunscreen Spray",
+    "brand": "GlowGuard",
+    "price": 18.99,
+    "rating": 4.8,
+    "stock": 40,
+    "description": "Protect your skin without the greasy feel. Our lightweight SPF 50 mineral sunscreen spray goes on clear, is water-resistant for up to 80 minutes, and is reef-safe. Formulated with antioxidants and hyaluronic acid to keep your skin hydrated while providing broad-spectrum protection.",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=600&q=80",
+    "category": "Skincare",
+    "features": ["SPF 50", "Water Resistant 80min", "Reef Safe", "Non-Greasy Formula"]
+  },
+  {
+    "id": 4,
+    "name": "Premium Beach Tote Bag",
+    "brand": "CoastalCo",
+    "price": 42.99,
+    "rating": 4.6,
+    "stock": 20,
+    "description": "The ultimate beach companion. This spacious tote bag features a sand-resistant interior, waterproof outer coating, multiple organizational pockets, and comfortable padded shoulder straps. Large enough to carry towels, sunscreen, snacks, and all your beach essentials in style.",
+    "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=600&q=80",
+    "category": "Accessories",
+    "features": ["Sand Resistant Interior", "Waterproof Coating", "Multiple Pockets", "Padded Straps"]
+  },
+  {
+    "id": 5,
+    "name": "Inflatable Pool Float Ring",
+    "brand": "SplashFun",
+    "price": 24.99,
+    "rating": 4.4,
+    "stock": 30,
+    "description": "Float the day away with our oversized inflatable pool ring. Made from premium thick PVC with reinforced air chambers, this fun float is 150cm in diameter and features a fun flamingo design. Includes a repair patch kit and comes in a compact carry bag for easy storage and transport.",
+    "image": "https://images.unsplash.com/photo-1530870110042-98b2cb110834?w=600&q=80",
+    "category": "Beach & Pool",
+    "features": ["150cm Diameter", "Thick PVC Material", "Includes Repair Kit", "Compact Storage Bag"]
+  },
+  {
+    "id": 6,
+    "name": "Breezy Linen Summer Dress",
+    "brand": "SoleilStyle",
+    "price": 54.99,
+    "rating": 4.9,
+    "stock": 12,
+    "description": "Effortlessly chic and blissfully comfortable, this flowing linen summer dress is your go-to for beach-to-brunch transitions. Features an adjustable tie waist, flowy midi length, square neckline, and ruffled hemline. Made from 100% breathable linen that keeps you cool all day long.",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=600&q=80",
+    "category": "Clothing",
+    "features": ["100% Breathable Linen", "Adjustable Tie Waist", "Midi Length", "Versatile Style"]
+  },
+  {
+    "id": 7,
+    "name": "Waterproof Bluetooth Speaker",
+    "brand": "SonicWave",
+    "price": 79.99,
+    "rating": 4.7,
+    "stock": 18,
+    "description": "Bring the party to the beach with this rugged IPX7 waterproof Bluetooth speaker. With 360° surround sound, 24-hour battery life, and a built-in power bank to charge your devices, it's the perfect summer audio companion. Drop-proof, sand-proof, and ready for any adventure.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&q=80",
+    "category": "Electronics",
+    "features": ["IPX7 Waterproof", "24-Hour Battery", "360° Sound", "Built-in Power Bank"]
+  },
+  {
+    "id": 8,
+    "name": "Aloe Vera After-Sun Gel",
+    "brand": "GlowGuard",
+    "price": 14.99,
+    "rating": 4.8,
+    "stock": 50,
+    "description": "Soothe and restore sun-exposed skin with our cooling aloe vera after-sun gel. Formulated with 99% pure aloe vera extract, vitamin E, and green tea antioxidants to calm irritation, reduce redness, and deeply hydrate. Absorbs instantly without stickiness for immediate relief.",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=600&q=80",
+    "category": "Skincare",
+    "features": ["99% Pure Aloe Vera", "Vitamin E Enriched", "Instant Absorption", "Non-Sticky Formula"]
+  }
+]
