@@ -1,5 +1,5 @@
 "use client";
-
+import Link from "next/link";
 import { authClient } from "@/lib/auth-client";
 import { Check } from "@gravity-ui/icons";
 import {
@@ -140,9 +140,9 @@ export default function RegisterPage() {
 
         <p className="text-center text-sm mt-5">
           Already have an account?{" "}
-          <a href="/login" className="text-primary font-semibold">
+          <Link href="/login" className="text-primary font-semibold">
             Login
-          </a>
+          </Link>
         </p>
 
       </Card>
