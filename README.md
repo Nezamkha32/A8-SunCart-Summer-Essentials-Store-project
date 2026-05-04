@@ -40,6 +40,7 @@ https://github.com/Nezamkha32/A8-SunCart-Summer-Essentials-Store-project.git
   - Shows logged-in user's name, email, and photo
   - Update user information feature
 
+
 - 📱 **Responsive Design**
   - Works on mobile, tablet, and desktop
 
