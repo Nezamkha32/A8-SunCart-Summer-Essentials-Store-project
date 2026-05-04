@@ -4,7 +4,11 @@
 
 ## 📌 Project Purpose
 SunCart is a modern summer essentials web application where users can explore different summer products like sunglasses, skincare, outfits, and accessories.  
+
 Users can view product details and manage their profile with authentication.
+
+
+This project is built as an assignment for a summer-themed eCommerce SPA with authentication and protected routes.
 
 ---
 
