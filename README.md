@@ -44,6 +44,16 @@ https://github.com/Nezamkha32/A8-SunCart-Summer-Essentials-Store-project.git
 - 📱 **Responsive Design**
   - Works on mobile, tablet, and desktop
 
+
+  ## Tech Stack
+
+- Next.js (App Router, JavaScript + JSX)
+- React
+- Tailwind CSS
+- DaisyUI/HeroUI
+- BetterAuth
+- Animate.css
+
 ---
 
 ## 📦 NPM Packages Used
