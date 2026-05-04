@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Banner = () => {
   return (
-    <div className=" relative h-[50vh] md:h-[65vh] lg:h-[75vh] w-full rounded-xl overflow-hidden shadow-2xl">
+    <div className=" relative h-48 md:h-80 lg:h-100 w-full rounded-xl overflow-hidden shadow-2xl">
 
       <div
         className="w-full h-48 sm:h-64 md:h-80 lg:h-100 object-cover rounded-lg absolute inset-0 bg-cover bg-center"
