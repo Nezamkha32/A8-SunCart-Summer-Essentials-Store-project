@@ -27,9 +27,12 @@ https://github.com/Nezamkha32/A8-SunCart-Summer-Essentials-Store-project.git
   - Secure authentication using Better Auth
 
 - 🏠 **Home Page**
+  - Navbar
   - Summer sale banner
+  -popular 3 card
   - Summer care tips section
   - Top brands section
+  -Footer
 
 - 🛍 **All Products Page**
   - Display all summer products
