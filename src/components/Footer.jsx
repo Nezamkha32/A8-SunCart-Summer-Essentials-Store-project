@@ -120,8 +120,7 @@ const Footer = () => {
             <h3 className="text-sm font-semibold text-black dark:text-white">
               Social link
             </h3>
-            
-
+            <h1>facebook</h1>                        
             <p className="text-sm text-gray-600 dark:text-gray-400">
               Get summer deals in your inbox.
             </p>
@@ -151,6 +150,7 @@ const Footer = () => {
           <div className="flex items-center gap-6">
             <Link
               href="/privacy"
+              aria-label="Privacy Policy"
               className="hover:text-black dark:hover:text-white transition"
             >
               Privacy

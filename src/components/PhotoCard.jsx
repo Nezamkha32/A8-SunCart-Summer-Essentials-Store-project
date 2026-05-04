@@ -10,7 +10,7 @@ const PhotoCard = ({photo}) => {
                 fill
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 alt={photo.name}
-                className="object-cover rounded-xl"
+                className="w-full h-48 sm:h-64 object-cover rounded-lg"
                 />
 
                 <Chip size="sm" className="absolute right-2 top-2">{photo.category}</Chip>

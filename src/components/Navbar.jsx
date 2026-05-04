@@ -14,8 +14,8 @@ const Navbar = () => {
 
   return (
     <div className="border-b px-2">
-      <nav className=" flex justify-between items-center  py-3 max-w-7xl mx-auto w-full">
-        <div className="flex gap-2 items-center">
+      <nav className="flex justify-between items-center py-2 sm:py-3 px-3 sm:px-6 max-w-7xl mx-auto w-full">
+        <div className=" flex gap-2 items-center">
           <Image
             src={"/logo.png"}
             alt="logo"
@@ -24,7 +24,7 @@ const Navbar = () => {
             height={30}
             className="object-cover h-auto w-auto"
           />
-          <h3 className="font-black text-lg">SunCart:Summer Essentials Store</h3>
+          <h3 className="text-sm md:text-lg font-black truncate">SunCart:Summer Essentials Store</h3>
         </div>
 
         <ul className="flex items-center gap-5 text-sm">
